@@ -130,9 +130,9 @@ Se generaron mapas de calor que visualizan cómo el modelo asigna importancia a 
 
 Ejemplo de mapa de atención para `"the apple"`:
 
-<center>
+<p align="center">
 <img src="images/att_apple.png" width="400">
-</center>
+</p>
 
 <br>
 
